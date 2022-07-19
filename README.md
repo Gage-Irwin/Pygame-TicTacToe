@@ -4,4 +4,4 @@ TicTacToe written in python using pygame.
 - "R" reset game
 
 ## Screenshots
-![Screenshot 2022-07-19 004353](https://user-images.githubusercontent.com/91108814/179674384-a258e98f-2dc3-4819-9193-bc34cc131fcc.png)
+![Screenshot 2022-07-19 052421](https://user-images.githubusercontent.com/91108814/179728900-81a682eb-10ea-4ea3-bc0f-85a0a42fb172.png)
