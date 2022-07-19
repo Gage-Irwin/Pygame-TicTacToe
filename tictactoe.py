@@ -5,7 +5,7 @@ NODE_SIZE = int(150)
 
 WIDTH = 3*NODE_SIZE+NODE_SIZE//5
 HEIGHT = 3*NODE_SIZE+NODE_SIZE//5
-pygame.display.set_caption("connect4")
+pygame.display.set_caption("tictactoe")
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
 FPS = 60
